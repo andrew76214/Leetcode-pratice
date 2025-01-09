@@ -14,7 +14,7 @@
 - E [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1768.py)
 
 ### Two pointers
-- E [238. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0238.py)
+- E [238. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0238.cpp)
 
 ### Binary tree - DFS
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
