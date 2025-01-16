@@ -18,5 +18,6 @@
 
 ### Binary tree - DFS
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
+- E [112. Path Sum I](https://leetcode.com/problems/path-sum/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0112.py)
 - E [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0872.cpp) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0872.py)
 - M [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1448.py)
