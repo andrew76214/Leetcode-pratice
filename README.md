@@ -15,6 +15,7 @@
 
 ### Two pointers
 - E [238. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0238.cpp) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0283.py)
+- E [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0392.py)
 
 ### Binary tree - DFS
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
