@@ -12,6 +12,7 @@
 - E [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1071.py)
 - E [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1431.py)
 - E [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1768.py)
+- E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3105.py)
 
 ### Two pointers
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0011.py)
