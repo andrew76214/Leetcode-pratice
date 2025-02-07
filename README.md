@@ -37,4 +37,5 @@
 ### Hash Map / Set
 - E [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1207.py)
 - E [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2215.py)
+- M [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3160.py)
 
