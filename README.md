@@ -31,3 +31,4 @@
 ### Sliding Window
 - E [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0643.py)
 - M [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1456.py)
+- M [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1004.py)
