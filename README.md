@@ -33,3 +33,7 @@
 - M [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1004.py)
 - M [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1456.py)
 - M [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1493.py)
+
+### Hash Map / Set
+- E [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2215.py)
+
