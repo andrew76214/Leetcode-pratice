@@ -41,3 +41,5 @@
 - M [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2364.py)
 - M [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3160.py)
 
+### Stack
+- E [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3174.py)
