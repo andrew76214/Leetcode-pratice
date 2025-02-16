@@ -36,6 +36,7 @@
 
 ### Prefix Sum
 - E [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1732.py)
+- E [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0724.py)
 
 ### Hash Map / Set
 - E [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1207.py)
