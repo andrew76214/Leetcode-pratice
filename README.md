@@ -34,6 +34,9 @@
 - M [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1456.py)
 - M [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1493.py)
 
+### Prefix Sum
+- E [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1732.py)
+
 ### Hash Map / Set
 - E [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1207.py)
 - M [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1675.py)
