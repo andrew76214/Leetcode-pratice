@@ -50,3 +50,6 @@
 - M [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0735.py)
 - M [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2390.py)
 - E [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3174.py)
+ 
+### Binary Search
+- E [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0374.py)
