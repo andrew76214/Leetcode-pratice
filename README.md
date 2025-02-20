@@ -28,6 +28,9 @@
 - E [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0872.cpp) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0872.py)
 - M [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1448.py)
 
+### Binary Search Tree
+- E [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0700.py)
+
 ### Sliding Window
 - E [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0643.py)
 - M [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1004.py)
