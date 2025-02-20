@@ -10,6 +10,7 @@
 - M [443. String Compression](https://leetcode.com/problems/string-compression/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0443.py)
 - E [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0605.py)
 - E [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1071.py)
+- E [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1122.py)
 - E [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1431.py)
 - E [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1768.py)
 - E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3105.py)
