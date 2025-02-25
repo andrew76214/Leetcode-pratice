@@ -22,6 +22,7 @@
 - E [238. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0238.cpp) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0283.py)
 - E [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0392.py)
 - M [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1679.py)
+- E [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2824.py)
 
 ### Binary tree - DFS
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
