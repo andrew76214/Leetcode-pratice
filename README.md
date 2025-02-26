@@ -61,3 +61,6 @@
  
 ### Binary Search
 - E [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0374.py)
+
+### Bit Manipulation
+- E [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1486.py)
