@@ -21,6 +21,7 @@
 - E [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0088.py)
 - E [238. Move Zeroes](https://leetcode.com/problems/move-zeroes/) [[C++]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0238.cpp) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0283.py)
 - E [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0392.py)
+- E [704. Binary Search](https://leetcode.com/problems/binary-search/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0704.py)
 - M [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1679.py)
 - E [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2824.py)
 
