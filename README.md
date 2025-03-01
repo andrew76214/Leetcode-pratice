@@ -28,6 +28,7 @@
 
 ### Binary tree - DFS
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
+- E [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0108.py)
 - E [112. Path Sum I](https://leetcode.com/problems/path-sum/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0112.py)
 - M [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0113.py)
 - M [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0437.py)
