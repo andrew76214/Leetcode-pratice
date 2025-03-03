@@ -71,3 +71,4 @@
 
 ### Bit Manipulation
 - E [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1486.py)
+- E [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0191.py)
