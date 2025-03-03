@@ -50,6 +50,7 @@
 - E [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0724.py)
 
 ### Hash Map / Set
+- E [169. Majority Element](https://leetcode.com/problems/majority-element/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0169.py)
 - E [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1207.py)
 - M [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1675.py)
 - E [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2215.py)
