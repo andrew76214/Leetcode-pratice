@@ -8,6 +8,7 @@
 - M [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0334.py)
 - M [344. Reverse String](https://leetcode.com/problems/reverse-string/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0344.py)
 - E [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0345.py)
+- E [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0387.py)
 - E [415. Add Strings](https://leetcode.com/problems/add-strings/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0415.py)
 - M [443. String Compression](https://leetcode.com/problems/string-compression/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0443.py)
 - E [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0605.py)
