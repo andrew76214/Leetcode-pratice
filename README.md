@@ -1,4 +1,5 @@
 # Leetcode-pratice
+> array, linked list, hash table, string, 2 pointers, BST的BFS和DFS, Greedy稍微摸(DP跟graph不用
 
 ## Problem & Solution
 
