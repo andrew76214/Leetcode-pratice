@@ -30,6 +30,7 @@
 - E [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2824.py)
 
 ### Binary tree - DFS
+- E [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0094.py)
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0104.py)
 - E [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0108.py)
 - E [112. Path Sum I](https://leetcode.com/problems/path-sum/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0112.py)
