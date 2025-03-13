@@ -69,6 +69,9 @@
 - M [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/2390.py)
 - E [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/3174.py)
 
+### Heap
+- M [1642. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/1642.py)
+
 ### Linked List
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [[python]](https://github.com/andrew76214/Leetcode-pratice/blob/main/solution/0021.py)
 
